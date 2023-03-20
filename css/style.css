@@ -37,6 +37,7 @@ details {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     color: #434851;
+    margin-left: 50px;
 
 }
 p {
@@ -69,7 +70,7 @@ p {
     padding: 1px 1px 1px 5px;
 }
 
-.editorial {
+.category {
     display: inline;
     margin-left: 15px;
     color: white;
@@ -78,7 +79,30 @@ p {
     background-color: #09A9ED;
     padding-top: 1px;
     padding-bottom: 1px;
-    border-radius: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+    height: 12px;
+    width: auto;
+    border-radius: 12px;
     font-size: 10px
+}
 
+.q1 {
+    border-color: #AB5DE6;
+    background-color: #AB5DE6;
+}
+
+.rec {
+    border-color: #2CC6AB;
+    background-color: #2CC6AB;
+}
+
+.mobile {
+    border-color: #FF9B00;
+    background-color: #FF9B00;
+}
+
+.website {
+    border-color: #FF9B00;
+    background-color: #FF9B00;
 }
