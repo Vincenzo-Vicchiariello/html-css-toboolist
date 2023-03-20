@@ -103,6 +103,11 @@ p {
 }
 
 .website {
-    border-color: #FF9B00;
-    background-color: #FF9B00;
+    border-color: #EC4A9D;
+    background-color: #EC4A9D;
+}
+
+.sales {
+    border-color: #A3D116;
+    background-color: #A3D116;
 }
