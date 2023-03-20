@@ -27,3 +27,58 @@ button:hover {
     background-color: #14AAF5;
     border-color: #14AAF5;
 }
+
+.lr-margins {
+    margin-left: 300px; 
+    margin-right: 300px;
+}
+
+details {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #434851;
+
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+
+.checkm {
+    color: #2CC6AB;
+    border-style: solid;
+    border-color: 2CC6AB;
+    border-radius: 50%;
+    border-width: 1px;
+    text-align: center;
+    margin-right: 20px;
+    font-size: 12px;
+    padding: 3px 3px 3px 5px;
+}
+
+.cross {
+    color:#FF0000;
+    border-style: solid;
+    border-color: red;
+    border-radius: 50%;
+    border-width: 1px;
+    text-align: center;
+    margin-right: 20px;
+    font-size: 15px;
+    padding: 1px 1px 1px 5px;
+}
+
+.editorial {
+    display: inline;
+    margin-left: 15px;
+    color: white;
+    border-style: solid;
+    border-color: #09A9ED;
+    background-color: #09A9ED;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 5px;
+    font-size: 10px
+
+}
